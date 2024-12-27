@@ -1,4 +1,5 @@
-const colors = require('tailwindcss/colors');
+import colors from 'tailwindcss/colors';
+
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
@@ -9,6 +10,9 @@ export default {
   theme: {
     extend: {
       colors: {
+        ...colors,
+        primary: colors.purple,
+        secondary: colors.pink,
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
@@ -16,11 +20,6 @@ export default {
         'gradient-radial': 'radial-gradient(ellipse at center, var(--tw-gradient-stops))',
         'gradient-conic': 'conic-gradient(from 0deg at center, var(--tw-gradient-stops))',
       },
-    },
-    colors:{
-      ...colors,
-      primary:colors.purple,
-      secondary:colors.pink,
     },
   },
   plugins: [],
