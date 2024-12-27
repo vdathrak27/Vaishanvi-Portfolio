@@ -15,6 +15,12 @@ export default {
         secondary: colors.pink,
         background: "var(--background)",
         foreground: "var(--foreground)",
+        // Updated deprecated colors
+        sky: colors.sky,
+        stone: colors.stone,
+        neutral: colors.neutral,
+        gray: colors.gray,
+        slate: colors.slate,
       },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(ellipse at center, var(--tw-gradient-stops))',
@@ -24,4 +30,3 @@ export default {
   },
   plugins: [],
 };
-// usage as bg-primary-50 like that
