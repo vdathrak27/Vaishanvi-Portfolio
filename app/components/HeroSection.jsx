@@ -35,10 +35,9 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          With a combination of a master's degree and professional experience equating to over 5 yearsI specialize in creating scalable, secure, and customer-centric solutions using Java, Spring Boot, and cloud technologies. 
-          My expertise includes building microservices architectures, optimizing workflows, and delivering security-driven applications. 
-          Notable accomplishments include leading the modernization of monolithic systems into distributed microservices, developing ChallengeApp, a cloud-hosted web application deployed on AWS and implementing robust authentication systems with Spring Security and OAuth2. I thrive on solving complex problems, streamlining processes, and aligning technical solutions with customer needs. 
-          By integrating tools like Docker, Kubernetes, PostgreSQL, and distributed tracing technologies, I’ve ensured high system reliability and performance. I am passionate about innovation and eager to contribute to the team’s mission to deliver exceptional customer experiences globally. 
+          With over 5 years of experience and a master’s degree, I excel in developing secure, scalable solutions using Java, Spring Boot, and cloud technologies. 
+          Notable achievements include modernizing systems, deploying ChallengeApp on AWS, and implementing authentication with Spring Security and OAuth2. 
+          Skilled in microservices, Docker, Kubernetes, and PostgreSQL, I deliver high-performing, reliable systems and am driven to enhance customer experiences globally.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
             {/* Button for Shooting an Email */}
