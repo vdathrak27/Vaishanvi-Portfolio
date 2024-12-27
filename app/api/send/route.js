@@ -1,4 +1,4 @@
-import { Resend } from "resend";
+/*import { Resend } from "resend";
 import { render } from "@react-email/render";
 import WelcomeTemplate from "../../../emails";
 
@@ -82,4 +82,4 @@ if (require.main === module) {
     console.log("Running GET function locally...");
     await GET(mockRequest, mockResponse);
   })();
-}
+}*/
