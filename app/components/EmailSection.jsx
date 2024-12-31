@@ -12,7 +12,7 @@ const PortfolioSections = () => {
           color: "black",
         }}
       >
-        <h2 className="text-4xl font-bold mb-6">Let's Connect</h2>
+        <h2 className="text-4xl font-bold mb-6">Get in touch!</h2>
 
         {/* Clickable Email Address */}
         <div className="flex items-center justify-center mb-4">
