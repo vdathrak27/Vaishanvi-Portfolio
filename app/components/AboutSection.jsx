@@ -36,8 +36,8 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>University of Colorado Denver</li>
-        <li>Master of Science in Computer Science</li>
+        <li>University of Colorado Denver - Master of Science in Computer Science</li>
+        <li>Guru Nanak Institute of Technology, JNTUH - Bachelor of Technology in Computer Science & Engineering</li>
       </ul>
     ),
   },
