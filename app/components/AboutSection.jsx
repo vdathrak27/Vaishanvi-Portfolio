@@ -73,7 +73,7 @@ const AboutSection = () => {
             width={500}
             height={500}
             alt="about me section"
-            className="object-contain rounded-none"
+            className="object-contain rounded-lg"
           />
         </div>
 
