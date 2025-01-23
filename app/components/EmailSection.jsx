@@ -15,14 +15,14 @@ const PortfolioSections = () => {
         <h2 className="text-4xl font-bold mb-6">Get in touch!</h2>
 
         {/* Clickable Email Address */}
-        <div className="flex items-center justify-center mb-4">
+        {/*<div className="flex items-center justify-center mb-4">
           <a
             href="mailto:vdathrak27@gmail.com"
             className="px-6 py-3 rounded-full bg-gray-800 text-white hover:bg-gray-700 text-center"
           >
             vdathrak27@gmail.com
           </a>
-        </div>
+        </div>*/}
 
         {/* LinkedIn Section */}
         <div

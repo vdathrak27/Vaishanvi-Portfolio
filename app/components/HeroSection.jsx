@@ -35,21 +35,21 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          With over 5 years of experience and a master’s degree, I excel in developing secure, scalable solutions using Java, Spring Boot, and cloud technologies. 
+          With over 4 years of experience and a master’s degree, I excel in developing secure, scalable solutions using Java, Spring Boot, and cloud technologies. 
           Notable achievements include modernizing systems, deploying ChallengeApp on AWS, and implementing authentication with Spring Security and OAuth2. 
           Skilled in microservices, Docker, Kubernetes, and PostgreSQL, I deliver high-performing, reliable systems and am driven to enhance customer experiences globally.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
             {/* Button for Shooting an Email */}
             <a
-              href="mailto:vdathrak27@gmail.com"
-              className="px-6 py-3 rounded-full bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 text-white hover:opacity-90 text-center"
+            href="mailto:vaishnavi.d@themailpad.com"
+            className="px-6 py-3 rounded-full bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 text-white hover:opacity-90 text-center"
             >
               Shoot an Email
             </a>
             {/* Button for Resume */}
             <a
-              href="/Vaishnavi_Dathrak_Resume.pdf"
+              href="/Vaishnavi_Dathrak_Updated_Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="relative rounded-full bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 p-1"

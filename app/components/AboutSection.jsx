@@ -46,6 +46,7 @@ const TAB_DATA = [
     id: "experience",
     content: (
       <ul className="list-disc pl-2">
+        <li>Software Engineer in Northern Trust, CO</li>
         <li>Testing Assistant at Disability Resources & Services</li>
         <li>Senior Software Engineer at SS&C Technologies Inc</li>
       </ul>
