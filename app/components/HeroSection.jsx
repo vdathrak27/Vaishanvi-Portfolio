@@ -49,7 +49,7 @@ const HeroSection = () => {
             </a>
             {/* Button for Resume */}
             <a
-              href="/Vaishnavi_Dathrak_Updated_Resume.pdf"
+              href="/
               target="_blank"
               rel="noopener noreferrer"
               className="relative rounded-full bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 p-1"
